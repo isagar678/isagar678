@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Java | Python | Javascript | Frontend**
+- 💬 Ask me about **Java | Python | Javascript | Backend**
 
 - 📫 How to reach me **bharatisagar678@gmail.com**
 
